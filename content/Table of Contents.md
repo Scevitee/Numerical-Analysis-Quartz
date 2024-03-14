@@ -1,3 +1,6 @@
+---
+title: Table of Contents
+---
 ## Chapter 4
 - #### [[4.1 The rootfinding problem]]
 	- ##### [[4.1 The rootfinding problem#Introduction|Introduction]]

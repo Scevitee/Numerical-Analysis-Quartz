@@ -1,7 +1,4 @@
 ---
-
----
----
 title: Welcome!
 ---
 
@@ -11,7 +8,7 @@ On this site I will provide:
 - All definitions and theorems in the textbook
 - Reiteration / explanation of code found in the textbook that I found confusing
 - Reactive examples (using sliders, radio buttons, etc) 
-- Modified version of at least one example per section
+- A modified version of at least one exercise per section
 
 The tool I'm using for this has some convenience features in place:
 - Full text search
