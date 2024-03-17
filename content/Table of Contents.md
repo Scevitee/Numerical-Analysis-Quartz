@@ -14,6 +14,7 @@ title: Table of Contents
 	- ##### [[4.1 The rootfinding problem#Examples|Examples]]
 		- Based off of exercises 4.1.7 and 4.1.1
 - #### [[4.2 Fixed-point iteration]]
+	- ##### [[]]
 - #### [[4.3 Newton's method]]
 - #### [[4.4 Interpolation-based methods]]
 - #### [[4.5 Newton for nonlinear systems]]
