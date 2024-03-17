@@ -6,7 +6,7 @@ Hello! This is a little project I'm starting for this class since we are moving 
 
 On this site I will provide:
 - All definitions and theorems in the textbook
-- Reiteration / explanation of code found in the textbook that I found confusing
+- Reiteration / explanation of code in the textbook that I found confusing
 - Reactive examples (using sliders, radio buttons, etc) 
 - A modified version of at least one exercise per section
 
@@ -14,7 +14,7 @@ The tool I'm using for this has some convenience features in place:
 - Full text search
 - Wikilinks
 - Graph view
-- Markdown text editing
+- Sidebar explorer 
 
 To get started, follow this wikilink to the [[Table of Contents]]
 
