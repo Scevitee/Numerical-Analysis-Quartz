@@ -14,7 +14,18 @@ title: Table of Contents
 	- ##### [[4.1 The rootfinding problem#Examples|Examples]]
 		- Based off of exercises 4.1.7 and 4.1.1
 - #### [[4.2 Fixed-point iteration]]
-	- ##### [[]]
+	- ##### [[4.2 Fixed-point iteration#Introduction|Introduction]]
+		- Def: Fixed-point iteration
+		- Fixed-point iteration algorithm
+	- ##### [[4.2 Fixed-point iteration#Series Analysis|Series Analysis]]
+		- Determining if an iteration with converge
+	- ##### [[4.2 Fixed-point iteration#Linear Convergence|Linear Convergence]]
+		- Def: Linear Convergence
+		- *Incomplete*
+	- ##### [[4.2 Fixed-point iteration#Contraction Maps|Contraction Maps]]
+		- *Incomplete*
+	- ##### [[4.2 Fixed-point iteration#Examples|Examples]]
+		- *Incomplete*
 - #### [[4.3 Newton's method]]
 - #### [[4.4 Interpolation-based methods]]
 - #### [[4.5 Newton for nonlinear systems]]
