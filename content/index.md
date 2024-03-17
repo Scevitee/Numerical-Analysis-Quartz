@@ -16,7 +16,7 @@ The tool I'm using for this has some convenience features in place:
 - Graph view
 - Markdown text editing
 
-To get started, following this wikilink to the [[Table of Contents]]
+To get started, follow this wikilink to the [[Table of Contents]]
 
 I'm hosting this on GitHub [here](https://github.com/Scevitee/Numerical-Analysis-Quartz). If by some odd chance you want to contribute, you're more than welcome to! 
 
