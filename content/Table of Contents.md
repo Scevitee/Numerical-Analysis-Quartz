@@ -22,9 +22,11 @@ title: Table of Contents
 	- Determining if an iteration with converge
 - ##### [[4.2 Fixed-point iteration#Linear Convergence|Linear Convergence]]
 	- Def: Linear Convergence
-	- *Incomplete*
+	- Obs: Linear Convergence in Practice
 - ##### [[4.2 Fixed-point iteration#Contraction Maps|Contraction Maps]]
-	- *Incomplete*
+	- Def: Lipschitz condition
+	- Thm: Contraction mapping
+	- Corollary 4.2.11
 - ##### [[4.2 Fixed-point iteration#Examples|Examples]]
 	- *Incomplete*
 
