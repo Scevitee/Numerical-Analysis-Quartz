@@ -28,9 +28,17 @@ title: Table of Contents
 	- Thm: Contraction mapping
 	- Corollary 4.2.11
 - ##### [[4.2 Fixed-point iteration#Examples|Examples]]
-	- *Incomplete*
+	- Based off of exercises 4.2.1 and 4.2.2
 
 #### [[4.3 Newton's method]]
+- ##### [[4.3 Newton's method#Introduction|Introduction]]
+	- Alg: Newton's Method
+- ##### [[4.3 Newton's method#Convergence|Convergence]]
+	- Obs: 4.3.3
+	- Def: Quadratic convergence
+- ##### [[4.3 Newton's method#Implementation|Implementation]]
+	- Scalar rootfinding problem
+- ##### [[4.3 Newton's method#Examples|Examples]]
 #### [[4.4 Interpolation-based methods]]
 #### [[4.5 Newton for nonlinear systems]]
 #### [[4.6 Quasi-Newton methods]]
